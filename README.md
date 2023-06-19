@@ -1,11 +1,11 @@
-About r-babynames
-=================
+About r-babynames-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-babynames-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/hadley/babynames
 
 Package license: CC0-1.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-babynames-feedstock/blob/main/LICENSE.txt)
 
 Summary: US baby names provided by the SSA. This package contains all names used for at least 5 children of either sex.
 
